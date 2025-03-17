@@ -1,3 +1,4 @@
+/* eslint-disable prefer-const */
 import './App.css';
 import { useState } from 'react';
 import SelectTask from './components/selectTask/SelectTask';
